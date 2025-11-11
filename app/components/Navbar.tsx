@@ -97,7 +97,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="flex flex-col bg-white dark:bg-black">
+    <nav className="flex flex-col bg-white dark:bg-[#414141]">
       <div className="flex justify-between items-center py-3 px-4 pb-4 md:px-20 border-b border-b-slate-500">
         <div className="flex items-center gap-2">
           {mainLinks.map((link, idx) => (

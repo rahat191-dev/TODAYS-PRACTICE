@@ -12,7 +12,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={poppins.variable}>
-      <body>
+      <body className="bg-white dark:bg-brand">
         <Navbar />
         <main className="font-sans">{children}</main>
       </body>

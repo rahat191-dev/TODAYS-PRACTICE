@@ -12,11 +12,11 @@ module.exports = {
         sans: ['Poppins', 'Arial', 'Helvetica', 'sans-serif'],
       },
       colors: {
-        brand: "rgb(156, 201, 111)",
-        primary: "rgb(156, 201, 111)",
-        bgcolor: "#151a15",
+        brand: "#272727",
+        primary: "#81cc4f",
+        bgcolor: "#272727",
         txt: "white",
-        scndtxt: "black",
+        scndtxt: "black"
       },
     },
   },
